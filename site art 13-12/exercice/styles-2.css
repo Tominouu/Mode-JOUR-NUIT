@@ -1,0 +1,8 @@
+.double-section{
+    display: flex;
+}
+
+.double-section-text{
+    margin: 50px;
+    max-width: 50%;
+}

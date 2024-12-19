@@ -1,0 +1,11 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+    justify-content: center;
+}
+section{
+    background-color: blue;
+}
+ul{
+    background-color: blueviolet;
+}

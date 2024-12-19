@@ -1,0 +1,23 @@
+Padding --> à l'intérieur 
+Margin --> à l'extérieur
+Display --> placer les éléments --> attribut "block" va venir chasser tout le texte.
+						     --> attribut "inline" va suivre dans la continuité.
+Balise HTML Span --> permet d'effectuer un style sur une zone précise du texte.
+""           """     Strong --> mettre du gras sur une partie du texte.
+gap --> distance entre chaque élément
+
+
+
+
+
+.t1{
+    justify-content: flex-start;
+}
+
+.t2{
+    justify-content: center;
+}
+
+.t3{
+    justify-content: flex-end;
+}
